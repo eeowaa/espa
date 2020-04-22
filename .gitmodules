@@ -1,0 +1,112 @@
+[submodule "espa-api"]
+	path = .archive/espa-api
+	url = https://github.com/USGS-EROS/espa-api.git
+	branch = master
+[submodule "espa-cloud-masking"]
+	path = .archive/espa-cloud-masking
+	url = https://github.com/USGS-EROS/espa-cloud-masking.git
+	branch = master
+[submodule "espa-elevation"]
+	path = .archive/espa-elevation
+	url = https://github.com/USGS-EROS/espa-elevation.git
+	branch = master
+[submodule "espa-fsca"]
+	path = .archive/espa-fsca
+	url = https://github.com/USGS-EROS/espa-fsca.git
+	branch = master
+[submodule "espa-junk-drawer"]
+	path = .archive/espa-junk-drawer
+	url = https://github.com/USGS-EROS/espa-junk-drawer.git
+	branch = master
+[submodule "espa-maintenance"]
+	path = .archive/espa-maintenance
+	url = https://github.com/USGS-EROS/espa-maintenance.git
+	branch = master
+[submodule "espa-plotting"]
+	path = .archive/espa-plotting
+	url = https://github.com/USGS-EROS/espa-plotting.git
+	branch = master
+[submodule "espa-python-library"]
+	path = .archive/espa-python-library
+	url = https://github.com/USGS-EROS/espa-python-library.git
+	branch = master
+[submodule "espa-rpms"]
+	path = .archive/espa-rpms
+	url = https://github.com/USGS-EROS/espa-rpms.git
+	branch = master
+[submodule "espa-scheduler"]
+	path = .archive/espa-scheduler
+	url = https://github.com/USGS-EROS/espa-scheduler.git
+	branch = master
+[submodule "espa-snow-covered-area"]
+	path = .archive/espa-snow-covered-area
+	url = https://github.com/USGS-EROS/espa-snow-covered-area.git
+	branch = master
+[submodule "espa-web"]
+	path = .archive/espa-web
+	url = https://github.com/USGS-EROS/espa-web.git
+	branch = master
+[submodule "espa-website"]
+	path = .archive/espa-website
+	url = https://github.com/USGS-EROS/espa-website.git
+	branch = master
+[submodule "espa-bulk-downloader"]
+	path = espa-bulk-downloader
+	url = https://github.com/USGS-EROS/espa-bulk-downloader.git
+	branch = master
+[submodule "espa-burned-area"]
+	path = espa-burned-area
+	url = https://github.com/USGS-EROS/espa-burned-area.git
+	branch = master
+[submodule "espa-dockerfiles"]
+	path = espa-dockerfiles
+	url = https://github.com/USGS-EROS/espa-dockerfiles.git
+	branch = master
+[submodule "espa-l2qa-tools"]
+	path = espa-l2qa-tools
+	url = https://github.com/USGS-EROS/espa-l2qa-tools.git
+	branch = master
+[submodule "espa-processing"]
+	path = espa-processing
+	url = git@github.com:USGS-EROS/espa-processing.git
+	branch = master
+[submodule "espa-product-formatter"]
+	path = espa-product-formatter
+	url = https://github.com/USGS-EROS/espa-product-formatter.git
+	branch = master
+[submodule "espa-reprojection"]
+	path = espa-reprojection
+	url = https://github.com/USGS-EROS/espa-reprojection.git
+	branch = master
+[submodule "espa-science-validation"]
+	path = espa-science-validation
+	url = https://github.com/USGS-EROS/espa-science-validation.git
+	branch = master
+[submodule "espa-spectral-indices"]
+	path = espa-spectral-indices
+	url = https://github.com/USGS-EROS/espa-spectral-indices.git
+	branch = master
+[submodule "espa-surface-reflectance"]
+	path = espa-surface-reflectance
+	url = https://github.com/USGS-EROS/espa-surface-reflectance.git
+	branch = master
+[submodule "espa-surface-temperature"]
+	path = espa-surface-temperature
+	url = https://github.com/USGS-EROS/espa-surface-temperature.git
+	branch = master
+[submodule "espa-surface-water-extent"]
+	path = espa-surface-water-extent
+	url = https://github.com/USGS-EROS/espa-surface-water-extent.git
+	branch = master
+[submodule "espa-worker"]
+	path = espa-worker
+	url = https://github.com/USGS-EROS/espa-worker.git
+	branch = master
+[submodule "landsat-ldope-tools"]
+	path = landsat-ldope-tools
+	url = https://github.com/USGS-EROS/landsat-ldope-tools.git
+	branch = master
+[submodule "landsat-qa-arcgis-toolbox"]
+	path = landsat-qa-arcgis-toolbox
+	url = https://github.com/USGS-EROS/landsat-qa-arcgis-toolbox.git
+	branch = master
